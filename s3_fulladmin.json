@@ -1,0 +1,9 @@
+Version	"2012-10-17"
+Statement	
+0	
+Sid	"statement1"
+Effect	"Allow"
+Action	
+0	"s3:*"
+Resource	
+0	"arn:aws:s3:::*"
